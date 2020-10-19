@@ -1,0 +1,40 @@
+.profile {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.thead-dark {
+    text-align: center;
+}
+
+.dashboard {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: auto;
+    background-attachment: fixed;
+    /* opacity: 0.3; */
+}
+
+/* .icon {
+    width: 50%;
+} */
+
+.inner {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pdfreport {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+/* .table-title {
+    font-family: Arial, Helvetica, sans-serif;
+} */
